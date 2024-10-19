@@ -1,0 +1,28 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "ource Sans Pro", sans-serif;
+    font-weight: normal;
+}
+body {background-color:darkseagreen;}
+ body {border:5px solid rgb(255, 212, 219);}
+ body {border-radius:15px;
+ }
+
+
+ ul {list-style-type: none;
+ text-align: center;
+ background-color: lightgray;
+ border: 5px solid lightgoldenrodyellow;
+ border-radius: 5px;
+ font-size: 10px;
+ font-weight: lighter;
+ }
+
+ li {display:inline;
+ }
+
+ img {display:block;
+ margin:auto;
+ }
